@@ -1,9 +1,6 @@
-# 极夫特商城内部管理后台 #
+# 商城内部管理后台 #
 基于Vue.js 2.x系列 + Element UI 的后台管理系统解决方案。在此[项目](http://blog.gdfengshuo.com/example/work/)基础上修改而成
 
-> 线上地址：https://fuwu.newgiftmall.com   
-> 测试地址:http://fuwu.newgiftmall.com:8001(配置host:192.168.1.66 fuwu.newgiftmall.com)  
-> （用户名 admin, 密码：123456）
 
 ## 一、项目说明
 
